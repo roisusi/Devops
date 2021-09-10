@@ -85,5 +85,6 @@
             <td><input type="button" value="*" onclick="dis('*')"/> </td>
          </tr>
       </table>
+       <a href="GuessANumbr.jsp">Click Here to Play Guess a Number</a>
    </body>
 </html> 
