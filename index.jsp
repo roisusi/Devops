@@ -87,7 +87,7 @@
       </table>
        <a href="GuessANumbr.jsp">Click Here to Play Guess a Number</a>
        <br>
-       <a heref="https://www.google.co.il">Click Here For google</a>
+       <a href="https://www.google.co.il">Click Here For google</a>
        <br>
    </body>
 </html> 
